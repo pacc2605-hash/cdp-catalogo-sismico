@@ -1,0 +1,2 @@
+nucleos,n_particiones,tiempo_secuencial_s,tiempo_paralelo_s,speedup
+2,7,0.4542,3.5345,0.1285
